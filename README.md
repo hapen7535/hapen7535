@@ -1,5 +1,7 @@
 ## 김유희
-
+  
+### 🙋About Me
+  
 ### ⚒Skills  
 **Techs that I've used at least once**
 <p>
