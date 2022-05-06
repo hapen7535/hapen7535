@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1EC?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapen7535&layout=compact)](https://github.com/hapen7535/github-readme-stats)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapen7535&layout=compact&theme=tokyonight)
 
   
 ![Metrics](/github-metrics.svg)
