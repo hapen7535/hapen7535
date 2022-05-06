@@ -1,16 +1,16 @@
 ## 김유희
   
-### 🙋 About Me  
 ### 📩 Contact Information
 <div id="contacts">
   <a href="https://hapen385.tistory.com/">
     <img src="https://img.shields.io/badge/Tech blog-blue?style=for-the-badge" alt="Blog Badge"/>
   </a>
-  <a href="yukim835@gmail.com">
+ <a href="yukim835@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+</div>  
 
+### 🙋 About Me  
 ### Summary  
 
   
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1EC?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapen7535&layout=compact)](https://github.com/hapen7535/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hapen7535=your-github-hapen7535&layout=compact&theme=vision-friendly-dark)](https://github.com/hapne7535/github-readme-stats)
 
   
 ![Metrics](/github-metrics.svg)
