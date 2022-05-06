@@ -1,7 +1,7 @@
 ## 김유희
   
-### 🙋About Me  
-### 📩Contact Information
+### 🙋 About Me  
+### 📩 Contact Information
 <div id="contacts">
   <a href="https://hapen385.tistory.com/">
     <img src="https://img.shields.io/badge/Tech blog-blue?style=for-the-badge" alt="Blog Badge"/>
@@ -14,7 +14,7 @@
 ### Summary  
 
   
-### ⚒Skills  
+### ⚒ Skills  
 **Techs that I've used at least once**
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
