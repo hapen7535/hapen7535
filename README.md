@@ -3,7 +3,7 @@
   
 
   * 📍I'm ***mobile app developer*** using Android.
-  * 🪄Sometimes I develop ***cross-platform*** like React-Native.
+  * 🪄Sometimes I develop ***cross-platform app*** like React-Native.
   * 👀Interested in everything ***Mobile app Develop & UI Design***
   * 🌱Currently learning ***Android with Kotlin*** 
   * ⚙️I use daily : ```.kt```, ```.xml```,  ```.py```
