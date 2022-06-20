@@ -53,7 +53,7 @@
 - SharedPreferences를 이용한 데이터 저장 경험  <a href="https://hapen385.tistory.com/29">관련 블로그 포스팅</a>
 - Glide를 이용한 이미지 로드 경험  <a href="https://hapen385.tistory.com/27">관련 블로그 포스팅</a>
 - Data Binding, View Binding 사용 경험  <a href="https://hapen385.tistory.com/19">관련 블로그 포스팅</a>
-- React Native을 사용한 Android Native 앱 개발 경험
+- React Native을 사용한 Android 앱 개발 경험
   
 
 **Things that I wil study** 앞으로 공부할 것들
