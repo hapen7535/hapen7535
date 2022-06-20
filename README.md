@@ -79,7 +79,7 @@ Computer Engineering, Dong-A university(2019.03~)
     - <a href="https://github.com/hapen7535/UMC2-android">스터디에서 진행한 실습 코드</a>
 - DSIS React Native Team (2021.09 ~ ) <a href="https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject&hl=ko&gl=US">디스이즈</a>
     - 디스이즈는 동아대학교 학생들의 편의를 위해 앱 서비스를 제공하는 비영리 단체/동아리 입니다.
-    - 디스이즈 안드로이드 팀에서 React Native를 사용하여 디스이즈 앱의 유지 보수를 하고 있습니다.
+    - 디스이즈 리액트 네이티브 팀에서 React Native를 사용하여 디스이즈 앱의 유지 보수를 하고 있습니다.
  
 
 ---
