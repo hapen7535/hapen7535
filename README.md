@@ -77,7 +77,7 @@ Computer Engineering, Dong-A university(2019.03~)
     - UMC는 앱 런칭에 도전하는 대학생 IT 연합 동아리입니다. 해당 동아리에서 안드로이드 세션에 참가하여 안드로이드를 스터디 형식으로 공부하며 앱 개발을 준비하고 있습니다.
     - UMC 2기 Android 세션에서 진행하는 안드로이드 스터디 내용은 <a href="https://www.makeus.in/10cada6b-2c1d-4706-a74e-312bec3259dd">여기</a>를 참고해주세요.
     - <a href="https://github.com/hapen7535/UMC2-android">스터디에서 진행한 실습 코드</a>
-- DSIS React Native Team (2021.09 ~ ) <a href="https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject&hl=ko&gl=US">디스이즈</a>
+- THIS IS React Native Team (2021.09 ~ ) <a href="https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject&hl=ko&gl=US">디스이즈</a>
     - 디스이즈는 동아대학교 학생들의 편의를 위해 앱 서비스를 제공하는 비영리 단체/동아리 입니다.
     - 디스이즈 리액트 네이티브 팀에서 React Native를 사용하여 디스이즈 앱의 유지 보수를 하고 있습니다.
  
