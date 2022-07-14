@@ -88,6 +88,7 @@ Computer Engineering, Dong-A university(2019.03~)
   
 음식 추천 시스템 어플리케이션  
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli2
+- 기간 : 2022.04 ~ 2022.06 (3개월)
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(Data Binding, LifeCycles), Retrofit2
 - 내용
   - 회원의 평점 이력을 수집하는 기능 구현
