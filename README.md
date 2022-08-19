@@ -16,7 +16,6 @@
   
 <h2>Yuhee Kim 김유희</h2>
   
- * 안드로이드 네이티브 앱 개발을 공부하고 있는 학생입니다
  
   
 ### 📭 Channel  
@@ -66,6 +65,9 @@
 - SharedPreferences를 이용한 데이터 저장 경험  <a href="https://hapen385.tistory.com/29">관련 블로그 포스팅</a>
 - Glide를 이용한 이미지 로드 경험  <a href="https://hapen385.tistory.com/27">관련 블로그 포스팅</a>
 - Data Binding, View Binding 사용 경험  <a href="https://hapen385.tistory.com/19">관련 블로그 포스팅</a>
+- Activity LifeCycles 활용 경험 <a href="https://hapen385.tistory.com/18">관련 블로그 포스팅</a>
+- LiveData 사용한 데이터 상태, UI 간의 동기화 경험
+- ViewModel 활용 경험
 - React Native을 사용한 Android 앱 개발 경험
   
 
@@ -111,6 +113,9 @@
 - 안드로이드(3인), 백엔드(1인) 개발자, 디자이너(1인)로 팀을 구성하여 진행하고 있는 프로젝트입니다
 - 내용 ( 본인 기여 내용 )
   - 소셜 로그인(카카오 로그인) 기능 구현
+    - View와 ViewModel을 사용하면서, UI 컨트롤러와 데이터를 분리하여 로그인 기능 구현
+    - LiveData를 사용하면서 ViewModel의 데이터를 UI 컨트롤러와 동기화
+    - Coroutine을 사용하여 서버로부터 비동기적으로 데이터를 
   - 반려동물, 식물 관련 커뮤니티 기능 개발 중
   
     
@@ -122,6 +127,8 @@
 - 내용 ( 본인 기여 내용 )
   - 회원의 평점 이력을 수집하는 기능 구현
   - 수집한 회원 평점 이력을 바탕으로한 추천 음식을 보여주는 기능 구현
+  - Coroutine을 사용하여 서버로부터 오는 데이터를 비동기적으로 수집
+  - Activity LifeCycle에 따라 화면의 애니메이션 가시화
   - 수집한 평점 이력은 Retrofit2를 활용하여 서버에 전송
   - Data Binding을 사용하여 TextView 내용 변경  
   
