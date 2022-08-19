@@ -16,6 +16,9 @@
   
 <h2>Yuhee Kim 김유희</h2>
   
+- 인드로이드 네이티브 어플리케이션 개발을 공부하고 있는 학생입니다.
+- 비효율적인 코드를 개선하는 것을 좋아합니다.
+- Kotlin을 주력 언어로 하여, 안드로이드를 개발하고 있습니다.
  
   
 ### 📭 Channel  
@@ -53,6 +56,7 @@
 <p>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -124,7 +128,7 @@
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli2
 - 기간 : 2022.04 ~ 2022.06 (3개월)
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(Data Binding, LifeCycles), Retrofit2
-- 안드로이드 개발(1인), 백엔드(1인), 데이터 엔지니어(1인)으로 팀을 구성하여 완성한 프로젝트입니다
+- 안드로이드 개발(1인), 백엔드(1인), 데이터 엔지니어(1인)로 팀을 구성하여 완성한 프로젝트입니다
 - 내용 ( 본인 기여 내용 )
   - 회원의 평점 이력을 수집하는 기능 구현
   - 수집한 회원 평점 이력을 바탕으로한 추천 음식을 보여주는 기능 구현
