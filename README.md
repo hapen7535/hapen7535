@@ -106,7 +106,7 @@
 ### ⚙️ Projects
   
       
-반려동물, 식물 커뮤니티 동식이 일기  
+**반려동물, 식물 커뮤니티 동식이 일기**  
 - 깃허브 주소 : https://github.com/companion-diary
 - 기간 : 2022.07 ~ 
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(LiveData, ViewModel)
@@ -119,7 +119,8 @@
   - 반려동물, 식물 관련 커뮤니티 기능 개발 중
   
     
-음식 추천 시스템 어플리케이션 메추리 
+      
+**음식 추천 시스템 어플리케이션 메추리** 
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli2
 - 기간 : 2022.04 ~ 2022.06 (3개월)
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(Data Binding, LifeCycles), Retrofit2
