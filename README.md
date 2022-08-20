@@ -75,7 +75,7 @@
 - React Native을 사용한 Android 앱 개발 경험
 - React Native async, await을 이용한 데이터 비동기 처리 경험 <a href="https://hapen385.tistory.com/9">관련 블로그 포스팅</a>
 
-**Tech Blog Posts블로그 포스팅**
+**Tech Blog Posts 기술 블로그 포스팅**
 - <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
 - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
