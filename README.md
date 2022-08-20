@@ -73,11 +73,18 @@
 - LiveData 사용한 데이터 상태, UI 간의 동기화 경험
 - ViewModel 활용 경험
 - React Native을 사용한 Android 앱 개발 경험
+- React Native async, await을 이용한 데이터 비동기 처리 경험 <a href="https://hapen385.tistory.com/9">관련 블로그 포스팅</a>
+
+**Tech Blog Posts블로그 포스팅**
+- <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
   
 
 **Things that I wil study** 앞으로 공부할 것들
   
-- Android 디자인 패턴(MVC, MVVM) 적용 경험
+- 아키텍처 패턴(MVC, MVP, MVVM) 적용 경험
 - Unit Test 작성 경험
 - RxJava를 이용한 반응형 프로그래밍 경험
 
@@ -102,6 +109,7 @@
     - 디스이즈 내의 디스스탑이즈 기능의 UX를 개선한 경험이 있습니다.
       - UX를 개선한 디자인을 적용하여 디스스탑이즈를 유지 보수한 경험이 있습니다.
       - 배차 간격 보기 기능을 개발하였습니다.
+        - async / await 개념을 용하여 기능을 개발했습니다.
       
  
 
@@ -119,11 +127,12 @@
   - 소셜 로그인(카카오 로그인) 기능 구현
     - View와 ViewModel을 사용하면서, UI 컨트롤러와 데이터를 분리하여 로그인 기능 구현
     - LiveData를 사용하면서 ViewModel의 데이터를 UI 컨트롤러와 동기화
-    - Coroutine을 사용하여 서버로부터 비동기적으로 데이터를 수집
+    - Coroutine을 사용하여 데이터를 비동기적으로 처리
   - 반려동물, 식물 관련 커뮤니티 기능 개발 중
   
-    
       
+   
+     
 **음식 추천 시스템 어플리케이션 메추리** 
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli2
 - 기간 : 2022.04 ~ 2022.06 (3개월)
@@ -132,7 +141,7 @@
 - 내용 ( 본인 기여 내용 )
   - 회원의 평점 이력을 수집하는 기능 구현
   - 수집한 회원 평점 이력을 바탕으로한 추천 음식을 보여주는 기능 구현
-  - Coroutine을 사용하여 서버로부터 오는 데이터를 비동기적으로 수집
+  - Coroutine을 사용하여 데이터를 비동기적으로 처리
   - Activity LifeCycle에 따라 화면의 애니메이션 가시화
   - 수집한 평점 이력은 Retrofit2를 활용하여 서버에 전송
   - Data Binding을 사용하여 TextView 내용 변경  
