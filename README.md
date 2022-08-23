@@ -71,7 +71,7 @@
 - Data Binding, View Binding 사용 경험  <a href="https://hapen385.tistory.com/19">관련 블로그 포스팅</a>
 - Activity LifeCycles 활용 경험 <a href="https://hapen385.tistory.com/18">관련 블로그 포스팅</a>
 - LiveData 사용한 데이터 상태, UI 간의 동기화 경험
-- ViewModel 활용 경험
+- AAC ViewModel 활용 경험 <a href="https://hapen385.tistory.com/39">관련 블로그 포스팅</a>
 - React Native을 사용한 Android 앱 개발 경험
 - React Native async, await을 이용한 데이터 비동기 처리 경험 <a href="https://hapen385.tistory.com/9">관련 블로그 포스팅</a>
 
