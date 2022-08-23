@@ -117,7 +117,19 @@
 
 ### ⚙️ Projects
   
-      
+  
+**날씨에 맞는 옷차림 보기 오늘 뭐 입지**
+- 깃허브 주소 : https://github.com/hapen7535/WeatherClothes-JAVA
+- 기간 : 2022.08 ~
+- 개발 언어/ 라이브러리 : Java, RxJava, 
+- 개인 프로젝트입니다
+- 내용
+  - 날씨 보기 기능 개발 중
+    - Open Weather API (https://openweathermap.org/api) 를 사용하여 날씨 데이터 수집
+  - 날씨에 따른 옷차림 보기 기능 개발 중
+    
+    
+     
 **반려동물, 식물 커뮤니티 동식이 일기**  
 - 깃허브 주소 : https://github.com/companion-diary
 - 기간 : 2022.07 ~ 
