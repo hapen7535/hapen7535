@@ -85,8 +85,11 @@
 **Things that I wil study** 앞으로 공부할 것들
   
 - 아키텍처 패턴(MVC, MVP, MVVM) 적용 경험
-- Unit Test 작성 경험
-- RxJava를 이용한 반응형 프로그래밍 경험
+- 클린 아키텍처 적용 경험
+- Unit Test 경험
+- Jetpack Compose 사용 경험
+- Android Architecture Components(AAC) 활용 경험
+- ReactiveX를 이용한 반응형 프로그래밍 경험
 
 ---
   
