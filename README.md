@@ -80,6 +80,8 @@
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
 - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
 - <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/40">MVC 아키텍처 패턴 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/41">MVVM 아키텍처 패턴 관련 포스팅</a>
   
 
 **Things that I wil study** 앞으로 공부할 것들
