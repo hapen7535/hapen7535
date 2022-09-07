@@ -95,7 +95,7 @@
     - 알고리즘 스터디에서는 알고리즘에 대해서 공부하고 해당 알고리즘에 관련한 문제를 함께 풀고 있습니다. 
 - Dong-A IT Club Front-End Study (2022.04 ~ 2022.08) <a href="https://github.com/donga-it-club/front-end-study">프론트엔드 스터디</a>
     - 프론트 엔드 스터디에서는 React Native를 공부하며 이를 이용하여 세상의 불편함을 개선하는 어플리케이션을 제작하는 것이 목표입니다. 
-- University MakeUs Challenge UMC 2nd Dong-A University Android Session (2022.03 ~ ) <a href="https://www.makeus.in/umc">UMC 2기</a>
+- University MakeUs Challenge UMC 2nd Dong-A University Android Session (2022.03 ~ 2022.08) <a href="https://www.makeus.in/umc">UMC 2기</a>
     - UMC는 앱 런칭에 도전하는 대학생 IT 연합 동아리입니다. 해당 동아리에서 안드로이드 세션에 참가하여 안드로이드를 스터디 형식으로 공부하며 앱 개발을 준비하고 있습니다.
     - UMC 2기 Android 세션에서 진행하는 안드로이드 스터디 내용은 <a href="https://www.makeus.in/10cada6b-2c1d-4706-a74e-312bec3259dd">여기</a>를 참고해주세요.
     - <a href="https://github.com/hapen7535/UMC2-android">스터디에서 진행한 실습 코드</a>
