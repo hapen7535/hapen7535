@@ -109,7 +109,7 @@
       
 ---
 
-### 🔖 Publishs
+### 🔖 Publications
   
     
 **Tech Blog Posts 기술 블로그 포스팅**
