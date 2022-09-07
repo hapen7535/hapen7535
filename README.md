@@ -64,25 +64,15 @@
     
     
 - Kotlin을 이용한 Android Native 앱 개발 경험
-- Coroutine 사용 경험  <a href="https://hapen385.tistory.com/21">관련 블로그 포스팅</a>
-- Retrofit2를 이용한 REST API 연동 경험  <a href="https://hapen385.tistory.com/15">관련 블로그 포스팅</a>
-- SharedPreferences를 이용한 데이터 저장 경험  <a href="https://hapen385.tistory.com/29">관련 블로그 포스팅</a>
-- Glide를 이용한 이미지 로드 경험  <a href="https://hapen385.tistory.com/27">관련 블로그 포스팅</a>
-- Data Binding, View Binding 사용 경험  <a href="https://hapen385.tistory.com/19">관련 블로그 포스팅</a>
-- Activity LifeCycles 활용 경험 <a href="https://hapen385.tistory.com/18">관련 블로그 포스팅</a>
+- Coroutine 사용 경험
+- Retrofit2를 이용한 REST API 연동 경험 
+- SharedPreferences를 이용한 데이터 저장 경험 
+- Glide를 이용한 이미지 로드 경험
+- Data Binding, View Binding 사용 경험 
+- Activity LifeCycles 활용 경험
 - LiveData 사용한 데이터 상태, UI 간의 동기화 경험
-- AAC ViewModel 활용 경험 <a href="https://hapen385.tistory.com/39">관련 블로그 포스팅</a>
+- AAC ViewModel 활용 경험
 - React Native을 사용한 Android 앱 개발 경험
-- React Native async, await을 이용한 데이터 비동기 처리 경험 <a href="https://hapen385.tistory.com/9">관련 블로그 포스팅</a>
-
-**Tech Blog Posts 기술 블로그 포스팅**
-- <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/40">MVC 아키텍처 패턴 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/41">MVVM 아키텍처 패턴 관련 포스팅</a>
-- <a href="https://hapen385.tistory.com/42">MVP 아키텍처 패턴 관련 포스팅</a>
   
 
 **Things that I wil study** 앞으로 공부할 것들
@@ -117,7 +107,27 @@
       - 배차 간격 보기 기능을 개발하였습니다.
         - async / await 개념을 이용하여 기능을 개발했습니다.
       
- 
+---
+
+### 🔖 Publishs
+  
+    
+**Tech Blog Posts 기술 블로그 포스팅**
+- <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/40">MVC 아키텍처 패턴 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/41">MVVM 아키텍처 패턴 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/42">MVP 아키텍처 패턴 관련 포스팅</a>
+- <a href="https://hapen385.tistory.com/21">Coroutine 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/15">Retrofit 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/29">SharedReferences 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/27">Glide 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/19">View Binding 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/18">Activity LifeCycles 관련 블로그 포스팅</a>
+- <a href="https://hapen385.tistory.com/39">AAC ViewModel 관련 블로그 포스팅</a>
+
 
 ---
 
