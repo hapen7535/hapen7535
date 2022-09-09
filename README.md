@@ -11,14 +11,15 @@
     <img src="https://img.shields.io/badge/Tech blog-blue?style=for-the-badge" alt="Blog Badge"/>
   </a><a href="mailto:yukim835@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> -->
-    
-  
-<h2>Yuhee Kim 김유희</h2>
-  
+  </a> 
 - 인드로이드 네이티브 어플리케이션 개발을 공부하고 있는 학생입니다.
 - 비효율적인 코드를 개선하는 것을 좋아합니다.
 - Kotlin을 주력 언어로 하여, 안드로이드를 개발하고 있습니다.
+
+-->
+    
+  
+<h2>Yuhee Kim 김유희</h2>
  
   
 ### 📭 Channel  
@@ -64,7 +65,7 @@
     
     
 - Kotlin을 이용한 Android Native 앱 개발 경험
-- Coroutine 사용 경험
+- Coroutine 사용 비동기 네트워킹 처리 경험
 - Retrofit2를 이용한 REST API 연동 경험 
 - SharedPreferences를 이용한 데이터 저장 경험 
 - Glide를 이용한 이미지 로드 경험
@@ -105,7 +106,7 @@
     - 디스이즈 내의 디스스탑이즈 기능의 UX를 개선한 경험이 있습니다.
       - UX를 개선한 디자인을 적용하여 디스스탑이즈를 유지 보수한 경험이 있습니다.
       - 배차 간격 보기 기능을 개발하였습니다.
-        - async / await 개념을 이용하여 기능을 개발했습니다.
+     
       
 ---
 
@@ -139,8 +140,6 @@
 *그 외 Android 관련*
 - <a href="https://hapen385.tistory.com/39">AAC ViewModel 관련 블로그 포스팅</a>
   - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
-- <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
-  - Fragment LifeCycle의 콜백 메소드에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/21">Coroutine 관련 블로그 포스팅</a>
   - Coroutine의 개념에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/29">SharedReferences 관련 블로그 포스팅</a>
@@ -149,6 +148,8 @@
   - View Binding의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/18">Activity LifeCycle 관련 블로그 포스팅</a>
   - Activity LifeCycle의 콜백 메소드에 대하여 작성한 포스팅입니다.
+- <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
+  - Fragment LifeCycle의 콜백 메소드에 대하여 작성한 포스팅입니다.
 
 ---
 
