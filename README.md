@@ -65,7 +65,7 @@
     
     
 - Kotlin을 이용한 Android Native 앱 개발 경험
-- Coroutine 사용 비동기 네트워킹 처리 경험
+- Coroutine 사용한 비동기 네트워킹 처리 경험
 - Retrofit2를 이용한 REST API 연동 경험 
 - SharedPreferences를 이용한 데이터 저장 경험 
 - Glide를 이용한 이미지 로드 경험
