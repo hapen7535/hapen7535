@@ -114,7 +114,7 @@
     
 **Tech Blog Posts 기술 블로그 포스팅**
   
-**Android Widgets**  
+*Android Widget*  
 - <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
   - RecyclerView의 개념과 관련 예제에 대하여 작성하였습니다.
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
@@ -122,13 +122,13 @@
 - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
   - Handler의 역할과 구성에 대하여 작성하였습니다.
   
-**Library**
+*Library*
 - <a href="https://hapen385.tistory.com/15">Retrofit2 관련 블로그 포스팅</a>
   - Retrofit2이 무엇인지 그리고 기본 사용 방법에 대하여 작성하였습니다.
 - <a href="https://hapen385.tistory.com/27">Glide 관련 블로그 포스팅</a>
   - Glide가 무엇인지 그리고 기본 사용 방법에 대하여 작성하였습니다.
   
-**Architecture Pattern**
+*Architecture Pattern*
 - <a href="https://hapen385.tistory.com/40">MVC 아키텍처 패턴 관련 포스팅</a>
   - MVC 패턴의 구조, 장점, 문제점에 대하여 작성하였습니다.
 - <a href="https://hapen385.tistory.com/41">MVVM 아키텍처 패턴 관련 포스팅</a>
@@ -136,7 +136,7 @@
 - <a href="https://hapen385.tistory.com/42">MVP 아키텍처 패턴 관련 포스팅</a>
   - MVP 패턴의 구조, 장점, 문제점에 대하여 작성하였습니다.
   
-**그 외 Android 관련**
+*그 외 Android 관련*
 - <a href="https://hapen385.tistory.com/39">AAC ViewModel 관련 블로그 포스팅</a>
   - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 기술하였습니다.
 - <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
