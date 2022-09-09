@@ -116,39 +116,39 @@
   
 *Android Widget*  
 - <a href="https://hapen385.tistory.com/37">RecyclerView 관련 포스팅</a>
-  - RecyclerView의 개념과 관련 예제에 대하여 작성하였습니다.
+  - RecyclerView의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
-  - ViewPager2의 개념과 관련 예제에 대하여 작성하였습니다.
+  - ViewPager2의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
-  - Handler의 역할과 구성에 대하여 작성하였습니다.
+  - Handler의 역할과 구성에 대하여 작성한 포스팅입니다.
   
 *Library*
 - <a href="https://hapen385.tistory.com/15">Retrofit2 관련 블로그 포스팅</a>
-  - Retrofit2이 무엇인지 그리고 기본 사용 방법에 대하여 작성하였습니다.
+  - Retrofit2의 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/27">Glide 관련 블로그 포스팅</a>
-  - Glide가 무엇인지 그리고 기본 사용 방법에 대하여 작성하였습니다.
+  - Glide의 기본 사용 방법에 대하여 작성한 포스팅입니다.
   
 *Architecture Pattern*
 - <a href="https://hapen385.tistory.com/40">MVC 아키텍처 패턴 관련 포스팅</a>
-  - MVC 패턴의 구조, 장점, 문제점에 대하여 작성하였습니다.
+  - MVC 패턴의 구조, 장점, 문제점에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/41">MVVM 아키텍처 패턴 관련 포스팅</a>
-  - MVVM 패턴의 구조, 장점, 문제점에 대하여 작성하였습니다.
+  - MVVM 패턴의 구조, 장점, 문제점에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/42">MVP 아키텍처 패턴 관련 포스팅</a>
-  - MVP 패턴의 구조, 장점, 문제점에 대하여 작성하였습니다.
+  - MVP 패턴의 구조, 장점, 문제점에 대하여 작성한 포스팅입니다.
   
 *그 외 Android 관련*
 - <a href="https://hapen385.tistory.com/39">AAC ViewModel 관련 블로그 포스팅</a>
-  - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 기술하였습니다.
+  - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/34">Fragment LifeCycle 관련 포스팅</a>
-  - Fragment LifeCycle의 각 메소드에 대한 설명을 작성하였습니다.
+  - Fragment LifeCycle의 콜백 메소드에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/21">Coroutine 관련 블로그 포스팅</a>
-  - Coroutine의 개념에 대하여 작성하였습니다.
+  - Coroutine의 개념에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/29">SharedReferences 관련 블로그 포스팅</a>
-  - SharedReferences의 역할과 기본 사용 방법에 대하여 작성하였습니다.
+  - SharedReferences의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/19">View Binding 관련 블로그 포스팅</a>
-  - View Binding의 역할과 기본 사용 방법 그리고 Data Binding과의 차이에 대하여 기술하였습니다.
+  - View Binding의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/18">Activity LifeCycle 관련 블로그 포스팅</a>
-  - Activity LifeCycle의 사용 이유와 각 메소드의 역할에 대하여 기술하였습니다.
+  - Activity LifeCycle의 콜백 메소드에 대하여 작성한 포스팅입니다.
 
 ---
 
