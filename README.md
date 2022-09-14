@@ -120,8 +120,8 @@
   - RecyclerView의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
   - ViewPager2의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
-- <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
-  - Handler의 역할과 구성에 대하여 작성한 포스팅입니다.
+<!-- - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
+  - Handler의 역할과 구성에 대하여 작성한 포스팅입니다. -->
   
 *Library*
 - <a href="https://hapen385.tistory.com/15">Retrofit2 관련 블로그 포스팅</a>
@@ -142,6 +142,8 @@
   - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/21">Coroutine 관련 블로그 포스팅</a>
   - Coroutine의 개념에 대하여 작성한 포스팅입니다.
+- <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
+  - Handler의 역할과 구성에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/29">SharedReferences 관련 블로그 포스팅</a>
   - SharedReferences의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/19">View Binding 관련 블로그 포스팅</a>
