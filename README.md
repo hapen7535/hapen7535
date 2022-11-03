@@ -158,16 +158,15 @@
 ### ⚙️ Projects
   
   
-**날씨에 맞는 옷차림 보기 오늘 뭐 입지**
-- 깃허브 주소 : https://github.com/hapen7535/WeatherClothes-JAVA
-- 기간 : 2022.08 ~
-- 개발 언어/ 라이브러리 : Java, RxJava, 
-- 개인 프로젝트입니다
-- 내용
-  - 날씨 보기 기능 개발 중
-    - Open Weather API (https://openweathermap.org/api) 를 사용하여 날씨 데이터 수집
-  - 날씨에 따른 옷차림 보기 기능 개발 중
-    
+**편의점 음식 추천 어플리케이션 메추리**
+- 깃허브 주소 : https://github.com/hapen7535/Mechuli-CVSver
+- 기간 : 2022.10 ~ 
+- 개발 언어/ 라이브러리 : Kotlin, Coroutine, Retrofit2, Coil, AAC(LiveData, ViewModel), 
+- 핵심 기능 : 3사 편의점(CU, GS, seveneleven)의 음식을 추천받을 수 있는 기능, 편의점 음식 레시피를 공유할 수 있는 커뮤니티 
+- 안드로이드 개발(1인), 백엔드(1인), 데이터 엔지니어(1인)로 팀을 구성하여 완성한 프로젝트입니다
+- 이전에 2022.04에 개발한 메추리를 리팩토링, 기능 추가한 것입니다.
+- 내용 ( 본인 기여 내용 )
+
     
      
 **반려동물, 식물 커뮤니티 동식이 일기**  
