@@ -1,24 +1,4 @@
-<!--  
-<h3 align="center">🙋 About Me</h3>  
-  
 
-  * 📍I'm ***mobile app developer*** using Android.
-  * 🪄Sometimes I develop ***cross-platform app*** like React-Native.
-  * 👀Interested in everything ***Mobile Native app Develop & UI Design***
-  * 🌱Currently learning ***Android with Kotlin*** 
-  * ⚙️I use daily : ```.kt```, ```.xml```,  ```.py```
-  * 📭Reach me :   <a href="https://hapen385.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech blog-blue?style=for-the-badge" alt="Blog Badge"/>
-  </a><a href="mailto:yukim835@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> 
-- 인드로이드 네이티브 어플리케이션 개발을 공부하고 있는 학생입니다.
-- 비효율적인 코드를 개선하는 것을 좋아합니다.
-- Kotlin을 주력 언어로 하여, 안드로이드를 개발하고 있습니다.
-
--->
-    
-  
 <h2>Yuhee Kim 김유희</h2>
  
   
@@ -38,7 +18,7 @@
 ---
 
 ### 🗞 Summary  
-  
+
 <!--    
   * 📍I'm ***mobile app developer*** using Android.
   * 🪄Sometimes I develop ***cross-platform app*** like React-Native.
@@ -67,29 +47,22 @@
 - Kotlin을 이용한 Android Native 앱 개발 경험
 - Coroutine 사용한 비동기 네트워킹 처리 경험
 - Retrofit2를 이용한 REST API 연동 경험 
-- SharedPreferences를 이용한 데이터 저장 경험 
-- Glide를 이용한 이미지 로드 경험
-- Data Binding, View Binding 사용 경험 
-- Activity LifeCycles 활용 경험
-- LiveData 사용한 데이터 상태, UI 간의 동기화 경험
-- AAC ViewModel 활용 경험
+- Glide, Coil를 이용한 이미지 로드 경험
+- AAC ViewModel, LiveData, DataBinding 활용 경험
+- MVVM 패턴 적용 경험
 - React Native을 사용한 Android 앱 개발 경험
   
 
 **Things that I wil study** 앞으로 공부할 것들
   
-- 아키텍처 패턴(MVC, MVP, MVVM) 적용 경험
-- 클린 아키텍처 적용 경험
 - Unit Test 경험
 - Jetpack Compose 사용 경험
-- Android Architecture Components(AAC) 활용 경험
-- ReactiveX를 이용한 반응형 프로그래밍 경험
 
 ---
   
 ### 🏫 Education
   
-동아대학교 컴퓨터공학과(2019.03 ~ 2023.02 졸업예정자)
+동아대학교 컴퓨터공학과(2019.03 ~ 2023.02 졸업)
   
 **Study**  
 - Dong-A IT Club Algorithm Study (2022.05 ~ 2022.07) <a href="https://github.com/donga-it-club/Algorithm-Study">알고리즘 스터디</a>
@@ -120,8 +93,7 @@
   - RecyclerView의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/33">ViewPager2 관련 포스팅</a>
   - ViewPager2의 개념과 관련 예제에 대하여 작성한 포스팅입니다.
-<!-- - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
-  - Handler의 역할과 구성에 대하여 작성한 포스팅입니다. -->
+
   
 *Library*
 - <a href="https://hapen385.tistory.com/15">Retrofit2 관련 블로그 포스팅</a>
@@ -138,8 +110,10 @@
   - MVP 패턴의 구조, 장점, 문제점에 대하여 작성한 포스팅입니다.
   
 *그 외 Android 관련*
+- <a href="https://hapen385.tistory.com/43">AAC 관련 블로그 포스팅</a>
+  - AAC(Android Architecture Components)의 개념과 종류에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/39">AAC ViewModel 관련 블로그 포스팅</a>
-  - AAC(Android Architecture Components)의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
+  - AAC ViewModel의 역할과 기본 사용 방법에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/21">Coroutine 관련 블로그 포스팅</a>
   - Coroutine의 개념에 대하여 작성한 포스팅입니다.
 - <a href="https://hapen385.tistory.com/25">Handler 관련 포스팅</a>
@@ -158,43 +132,54 @@
 ### ⚙️ Projects
   
   
-**편의점 음식 추천 어플리케이션 메추리**
+***편의점 음식 추천 어플리케이션 메추리***
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli-CVSver
-- 기간 : 2022.10 ~ 
-- 개발 언어/ 라이브러리 : Kotlin, Coroutine, Retrofit2, Coil, AAC(LiveData, ViewModel), 
+- 기간 : 2022.10 ~ 2022.01
+- 개발 언어/ 라이브러리 : Kotlin, Coroutine, Retrofit2, Coil, AAC(LiveData, ViewModel, DataBinding)
+  - 사용 상세 내용 : 
+    - Retrofit2를 이용하여 REST API 연동
+    - Coroutine을 이용하여 비동기 네트워킹 처리
+    - LiveData, DataBinding을 사용하여 View 갱신
+    - Coil을 사용하여 이미지 로드
+    - MVVM 패턴 적용
 - 핵심 기능 : 3사 편의점(CU, GS, seveneleven)의 음식을 추천받을 수 있는 기능, 편의점 음식 레시피를 공유할 수 있는 커뮤니티 
 - 안드로이드 개발(1인), 백엔드(1인), 데이터 엔지니어(1인)로 팀을 구성하여 완성한 프로젝트입니다
 - 내용 ( 본인 기여 내용 )
+  - 편의점 음식 제품 추천 기능 (안드로이드 부분) 개발
+    - 편의점 음식 제품에 대해 평점을 남기고 추천을 제공받는 기능
+  - 편의점 음식 레시피 커뮤니티 (안드로이드 부분) 개발
+    - 편의점 음식 제품으로 만든 레시피를 공유하는 커뮤니티 기능
+    - 제작 비용, 사진, 조리 방법과 함께 레시피를 공유
+    - 레시피에 평점과 함께 댓글 추가 가능  
+  
+  
 
-    
-     
-**반려동물, 식물 커뮤니티 동식이 일기**  
+***반려동물, 식물 커뮤니티 동식이 일기***  
 - 깃허브 주소 : https://github.com/companion-diary
 - 기간 : 2022.07 ~ 
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(LiveData, ViewModel)
-- 안드로이드(3인), 백엔드(1인) 개발자, 디자이너(1인)로 팀을 구성하여 진행하고 있는 프로젝트입니다
-- 내용 ( 본인 기여 내용 )
-  - 소셜 로그인(카카오 로그인) 기능 구현
+  - 사용 상세 내용 : 
     - View와 ViewModel을 사용하면서, UI 컨트롤러와 데이터를 분리하여 로그인 기능 구현
     - LiveData를 사용하여 ViewModel의 데이터를 UI 컨트롤러와 동기화
     - Coroutine을 사용한 비동기 네트워킹 처리
-  - 반려동물, 식물 커뮤니티 기능 개발 중
+    - Retrofit2를 이용하여 REST API 연동
+- 안드로이드(3인), 백엔드(1인) 개발자, 디자이너(1인)로 팀을 구성하여 진행하고 있는 프로젝트입니다
+- 내용 ( 본인 기여 내용 )
+  - 소셜 로그인(카카오 로그인) 기능 구현
+  - 반려동물, 식물 커뮤니티 기능 개발 중  
   
-      
-   
-     
-**음식 추천 시스템 어플리케이션 메추리** 
+  
+
+***음식 추천 시스템 어플리케이션 메추리*** 
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli2
 - 기간 : 2022.04 ~ 2022.06 (3개월)
-- 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(Data Binding, LifeCycles), Retrofit2
+- 개발 언어/ 라이브러리 : Kotlin, Coroutine, Retrofit2
+  - 사용 상세 내용 :
+    - Coroutine을 사용한 비동기 네트워킹 처리
+    - Retrofit2를 이용하여 REST API 연동
 - 안드로이드 개발(1인), 백엔드(1인), 데이터 엔지니어(1인)로 팀을 구성하여 완성한 프로젝트입니다
 - 내용 ( 본인 기여 내용 )
-  - 회원의 평점 이력을 수집하는 기능 구현
-  - 수집한 회원 평점 이력을 바탕으로한 추천 음식을 보여주는 기능 구현
-  - Coroutine을 사용하여 비동기 네트워킹 처리
-  - Activity LifeCycle에 따라 화면의 애니메이션 가시화
-  - 수집한 평점 이력은 Retrofit2를 활용하여 서버에 전송
-  - Data Binding을 사용하여 TextView 내용 변경  
+  - 음식 추천 기능 (안드로이드 부분) 개발  
   
 ---
 
