@@ -157,7 +157,7 @@
 ***반려동물, 식물 커뮤니티 동식이 일기***  
 - 깃허브 주소 : https://github.com/companion-diary
 - 기간 : 2022.07 ~ 
-- 개발 언어/ 라이브러리 : Kotlin, Coroutine, JetPack Components(LiveData, ViewModel)
+- 개발 언어/ 라이브러리 : Kotlin, Coroutine, AAC(LiveData, ViewModel)
   - 사용 상세 내용 : 
     - View와 ViewModel을 사용하면서, UI 컨트롤러와 데이터를 분리하여 로그인 기능 구현
     - LiveData를 사용하여 ViewModel의 데이터를 UI 컨트롤러와 동기화
