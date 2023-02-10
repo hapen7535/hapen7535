@@ -134,7 +134,7 @@
   
 ***편의점 음식 추천 어플리케이션 메추리***
 - 깃허브 주소 : https://github.com/hapen7535/Mechuli-CVSver
-- 기간 : 2022.10 ~ 2022.01
+- 기간 : 2022.10 ~ 2022.01 (4개월)
 - 개발 언어/ 라이브러리 : Kotlin, Coroutine, Retrofit2, Coil, AAC(LiveData, ViewModel, DataBinding)
   - 사용 상세 내용 : 
     - Retrofit2를 이용하여 REST API 연동
