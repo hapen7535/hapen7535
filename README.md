@@ -56,6 +56,8 @@
 **Things that I wil study** 앞으로 공부할 것들
   
 - Unit Test 경험
+- UI Test 경험
+- Flow 사용 경험
 - Jetpack Compose 사용 경험
 
 ---
